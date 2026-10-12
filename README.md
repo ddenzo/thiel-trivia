@@ -1,5 +1,5 @@
 # Tomcat Trivia
-A responsive, accessible Thiel College trivia game with 37 editorially verified questions, five categories, shuffled questions and answers, explanations, source links, round reviews and browser-local best scores. No account, API key, analytics, installation or build required.
+A responsive, accessible Thiel College trivia game with 32 editorially verified questions, four categories, shuffled questions and answers, explanations, source links, round reviews and browser-local best scores. No account, API key, analytics, installation or build required.
 
 ## Play locally
 Open `index.html` in a browser. Keep `app.js`, `questions.js` and `styles.css` beside it. Or run `python3 -m http.server 8000` in this directory and visit http://localhost:8000.
@@ -23,5 +23,5 @@ Run `node --test test.cjs`. Tests validate the question bank, unique questions, 
 
 This is an independent prototype, not a claim of institutional endorsement. No official logo assets are included. Scores are stored only in the player’s browser and may be unavailable when browser storage is disabled. There is no shared leaderboard.
 
-## Photo questions and sharing
-Select Photos for five image questions, or find them in mixed rounds. Photos preserve their proportions and load from thiel.edu. After a round, Share your score uses device sharing when supported; Copy score & link uses the clipboard, with selectable text as a fallback when clipboard access is blocked by a CMS iframe. Shared results link to the public game and do not save a public score record.
+## Sharing
+After a round, Share your score uses device sharing when supported; Copy score & link uses the clipboard, with selectable text as a fallback when clipboard access is blocked by a CMS iframe. Shared results link to the public game and do not save a public score record.
