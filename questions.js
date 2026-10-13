@@ -22,7 +22,7 @@ add(16,'Traditions','What is Thiel’s mascot character called?',['Tommy','Terry
 add(17,'Campus','In which Pennsylvania community is Thiel located?',['Greenville','Meadville','Erie','Grove City'],'Thiel’s address is in Greenville.','life');
 add(18,'Campus','Which building houses the TC Café?',['Howard Miller Student Center','Greenville Hall','Pedas Center','David Johnson Memorial Chapel'],'The TC Café is in the Howard Miller Student Center.','life');
 add(19,'Campus','Where can students get Starbucks barista-style beverages?',['Tomcat Bistro','College Archives','Passavant Center','Roth Hall'],'Tomcat Bistro serves Starbucks beverages.','life');
-add(20,'Campus','On which days is Common Hour scheduled?',['Tuesdays and Thursdays','Mondays and Wednesdays','Fridays and Saturdays','Saturdays and Sundays'],'Common Hour is on Tuesdays and Thursdays.','life');
+add(20,'Campus','On which days are Community and Common Hours scheduled?',['Tuesdays and Thursdays','Mondays and Wednesdays','Fridays and Saturdays','Saturdays and Sundays'],'Common Hour is on Tuesdays and Thursdays.','life');
 add(21,'Campus','What is the name of Thiel’s library?',['Langenheim Memorial Library','Carnegie Memorial Library','Passavant Memorial Library','Roth Memorial Library'],'Thiel’s library is Langenheim Memorial Library.','library');
 add(22,'Campus','What is Thiel’s street address?',['75 College Ave.','100 Main St.','1866 University Drive','1 Tomcat Way'],'The campus address is 75 College Ave.','library');
 add(23,'Media','What are the call letters of Thiel’s student radio station?',['WXTC','WTHL','WTOM','WKTC'],'WXTC is the student radio station.','media');
