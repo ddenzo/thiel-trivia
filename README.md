@@ -1,5 +1,5 @@
 # Tomcat Trivia
-A responsive, accessible Thiel College trivia game with 160 editorially verified questions, eight categories, shuffled questions and answers, explanations, source links, round reviews and browser-local best scores. No account, API key, analytics, installation or build required.
+A responsive, accessible Thiel College trivia game with 136 editorially verified questions, eight categories, shuffled questions and answers, explanations, source links, round reviews and browser-local best scores. No account, API key, analytics, installation or build required.
 
 ## Play locally
 Open `index.html` in a browser. Keep `app.js`, `questions.js` and `styles.css` beside it. Or run `python3 -m http.server 8000` in this directory and visit http://localhost:8000.
@@ -27,4 +27,6 @@ This is an independent prototype, not a claim of institutional endorsement. No o
 After a round, Share your score uses device sharing when supported; Copy score & link uses the clipboard, with selectable text as a fallback when clipboard access is blocked by a CMS iframe. Shared results link to the public game and do not save a public score record.
 
 ## Anniversary question bank
-The 160-question edition covers History, Traditions, Campus, Media, Academics, Arts, Alumni and Athletics. Quick rounds draw up to 10 distinct questions; full rounds include every question in the selected category. Date-sensitive announcements state their year. Research avoids conflicting relocation dates and moot-court placements. The question bank contains no photo questions. The campus photo ribbon and shareable results remain available.
+The 136-question edition covers History, Traditions, Campus, Media, Academics, Arts, Alumni and Athletics. Quick rounds draw up to 10 distinct questions; full rounds include every question in the selected category. Date-sensitive announcements state their year. Research avoids conflicting relocation dates and moot-court placements. The question bank contains no photo questions. The campus photo ribbon and shareable results remain available.
+
+Question IDs remain those from the original 160-question review bank. IDs 134, 13, 42, 46, 92, 93, 55, 58, 143, 129, 37, 96, 97, 108, 147, 148, 149, 150, 151, 155, 60, 62, 66, 77 were removed on October 13, 2026. New entries must supply a unique explicit ID as the first argument to add().
